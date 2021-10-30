@@ -1,0 +1,23 @@
+/*stylesheet.css by ya boii gong */
+
+h2 {
+    font-family: "Apple Chancery", cursive;
+    margin: 20px;
+    border: 2px dashed black;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+}
+
+.instructions-list{
+    background-color: antiquewhite;
+    text-align: center
+}
+
+.buttons{
+    background-color: thistle;
+}
+
+.big-font{
+    font-size: 50px
+}
